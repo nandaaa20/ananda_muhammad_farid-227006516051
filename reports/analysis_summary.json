@@ -1,0 +1,53 @@
+{
+  "n_rows": 513,
+  "n_cols": 14,
+  "columns": [
+    "X",
+    "Y",
+    "month",
+    "day",
+    "FFMC",
+    "DMC",
+    "DC",
+    "ISI",
+    "temp",
+    "RH",
+    "wind",
+    "rain",
+    "area",
+    "area_log"
+  ],
+  "dtypes": {
+    "X": "int64",
+    "Y": "int64",
+    "month": "int64",
+    "day": "int64",
+    "FFMC": "float64",
+    "DMC": "float64",
+    "DC": "float64",
+    "ISI": "float64",
+    "temp": "float64",
+    "RH": "int64",
+    "wind": "float64",
+    "rain": "float64",
+    "area": "float64",
+    "area_log": "float64"
+  },
+  "missing_per_col": {
+    "X": 0,
+    "Y": 0,
+    "month": 0,
+    "day": 0,
+    "FFMC": 0,
+    "DMC": 0,
+    "DC": 0,
+    "ISI": 0,
+    "temp": 0,
+    "RH": 0,
+    "wind": 0,
+    "rain": 0,
+    "area": 0,
+    "area_log": 0
+  },
+  "n_duplicates": 0
+}

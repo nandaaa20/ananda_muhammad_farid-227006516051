@@ -1,0 +1,9 @@
+=== Baseline: LinearRegression ===
+RMSE: 22.20095689104998
+R2: -0.27988251903319483
+
+=== RandomForest (Best) ===
+Best Params: {'model__max_depth': 10, 'model__min_samples_split': 2, 'model__n_estimators': 400}
+RMSE: 37.22761078793534
+R2: -2.5987945145327975
+Saved model: /content/drive/MyDrive/UAS-ML-Ananda-Muhammad-Farid-227006516051/models/regressor_area.joblib
