@@ -1,6 +1,6 @@
 **Ananda Muhammad Farid**
 **227006516051**
-**UAS mAchine Learning**
+**UAS Machine Learning**
 
 # Prediksi Luas Area Kebakaran Hutan
 
